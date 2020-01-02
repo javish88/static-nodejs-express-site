@@ -76,12 +76,12 @@ Create a new Pug template in the views folder and name it error.pug. This Pug fi
 
 ## Customize the style
 Change or add at least three of the following to make this project your own:
-color
-background color
-font
-box or text shadows
-transitions or animations
-add a logo
+## color
+## background color
+## font
+## box or text shadows
+## transitions or animations
+## add a logo
 Your can either add your changes to the end of the CSS file or add your own and link it in the head of the layout.pug file, below the other CSS links.
 Document your style changes in your README.md file and the project submission notes.
 Do not alter the layout or position of the important elements on the page.
